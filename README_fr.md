@@ -22,7 +22,7 @@
 - ⚡ &nbsp;Fun fact: J' ❤️ :otter: s et 🍩.
 
 <h2 align="center"> Mes Stats GitHub</h2>
-<br>
+<br/>
 <p align="center">
     <picture>
         <source srcset="https://github-readme-streak-stats.herokuapp.com?user=TessierV&theme=material-palenight&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&ring=AAEEA1&stroke=E9EFEB&background=00000000&fire=AAEEA1&sideNums=CAA4FF&currStreakLabel=E9EFEB&dates=A8C4B1&sideLabels=E9EFEB&currStreakNum=8160B1" media="(prefers-color-scheme: dark)">
@@ -34,6 +34,7 @@
     <summary>
         <b>Github ID et mes langages les plus utilisés</b>
     </summary>
+    <br/>
 <p align="center">
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=TessierV&show_icons=true&count_private=true&theme=material-palenight&hide_title=true&hide_border=true&hide=issues&bg_color=00000000&ring_color=AAEEA1&text_color=E9EFEB&icon_color=CAA4FF&text_bold=false&locale=fr" media="(prefers-color-scheme: dark)">
@@ -44,8 +45,15 @@
     </picture> 
     </p>
 </details>
-
-
+<details>
+    <summary>
+        <b>GitHub trophée</b>
+    </summary>
+<p align="center">
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=TessierV&theme=nord&margin-w=15&column=4&no-bg=true&no-frame=true">
+</p>
+</details>
 <details>
     <summary>
         <b>Meilleur Dossier</b>
