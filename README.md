@@ -1,4 +1,3 @@
-
 <p align="center">
     <picture>
         <source srcset="https://user-images.githubusercontent.com/113889290/210458550-43afbd29-22c1-4139-85b2-262a669273f9.png" width=60%  media="(prefers-color-scheme: dark)">
@@ -35,6 +34,7 @@
     <summary>
         <b>Github ID and Most used languages</b>
     </summary>
+    <br/>
     <p align="center">
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=TessierV&show_icons=true&count_private=true&theme=material-palenight&hide_title=true&hide_border=true&hide=issues&bg_color=00000000&ring_color=AAEEA1&text_color=E9EFEB&icon_color=CAA4FF&text_bold=false" media="(prefers-color-scheme: dark)">
@@ -44,7 +44,16 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TessierV&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&ring_color=94FF94" alt="TessierV" />
     </picture> 
     </p>  
-</details> 
+</details>
+<details>
+    <summary>
+        <b>GitHub profile trophy</b>
+    </summary>
+<p align="center">
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=TessierV&theme=nord&margin-w=15&column=4&no-bg=true&no-frame=true">
+</p>
+</details>
 
 
 <details>
