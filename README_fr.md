@@ -9,7 +9,7 @@
 
  <h2 align="center">GitHub Profile </h2>          
  <p align="right">
-    <a href="https://github.com/TessierV/TessierV/README_fr.md">· Français</a> 
+    · Français
     <a href="https://github.com/TessierV">· English</a>
 </p>
  
