@@ -24,7 +24,7 @@
 
 <h2 align="center"> My GitHub stats </h2>
  <br>
-<p align="center">
+<p align="left">
     <picture width="50%">
         <source srcset="https://github-readme-stats.vercel.app/api?username=TessierV&show_icons=true&count_private=true&theme=material-palenight&hide_title=true&hide_border=true&hide=issues&bg_color=00000000&ring_color=AAEEA1&text_color=E9EFEB&icon_color=CAA4FF&text_bold=false" media="(prefers-color-scheme: dark)">
         <img src="https://github-readme-stats.vercel.app/api?username=TessierV&show_icons=true&count_private=true&theme=material-palenight&hide_title=true&hide_border=true&hide=issues&bg_color=00000000&ring_color=B586F8&text_color=4A6553&icon_color=714B83&text_bold=false"  alt="TessierV" />
