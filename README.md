@@ -20,7 +20,7 @@
    <br/>
 
 - 🌱 &nbsp;I’m currently learning learning at HolbertonSchool TOULOUSE
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 💬 &nbsp;Currently working on the portfolio and the github profile
 - 📫 &nbsp;How to reach me: 5628@holbertonstudents.com
 - 👨‍💻 &nbsp;Read more about my projects at __in progress__ 
 - ⚡ &nbsp;Fun fact: I ❤️ :otter: s and 🍩
