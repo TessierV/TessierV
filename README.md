@@ -8,8 +8,8 @@
 
  <h2 align="center">GitHub Profile </h2>          
  <p align="right">
-    <a href="/TessierV/README_fr.md">· Français</a> 
-    <a href="/TessierV/README.md">· English</a>
+    <a href="/README_fr.md">· Français</a> 
+    <a href="/">· English</a>
 </p>
  
     
