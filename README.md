@@ -2,7 +2,6 @@
     <picture>
         <source srcset="https://user-images.githubusercontent.com/113889290/210458550-43afbd29-22c1-4139-85b2-262a669273f9.png#gh-dark-mode-only" width=60%  media="(prefers-color-scheme: dark)">
         <img src="https://user-images.githubusercontent.com/113889290/210438807-e1ce49f2-87a7-4b98-9cbd-2a9ebe35750d.png#gh-light-mode-only" width="60%">
-        <img src="https://user-images.githubusercontent.com/113889290/214608137-06c18c60-de76-433c-a9c9-6ee3aa10c43e.png#gh-light-mode-only" width="60%">
     </picture>
 </p>
 
