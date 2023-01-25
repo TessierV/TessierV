@@ -1,10 +1,9 @@
 <p align="center">
     <picture>
-        <source srcset="https://user-images.githubusercontent.com/113889290/210560823-453af9bd-e952-41ad-9e54-160918b1a90b.png" width=60%  media="(prefers-color-scheme: dark)">
-        <img src="https://user-images.githubusercontent.com/113889290/210560882-747b5af5-6ec6-47db-aa31-5ca6437ece07.png" width="60%">
+        <source srcset="https://user-images.githubusercontent.com/113889290/214613674-0a16f380-c3f1-4448-a920-4110214cd473.png" width=60%  media="(prefers-color-scheme: dark)">
+        <img src="https://user-images.githubusercontent.com/113889290/214613050-aa05b09a-8d69-442e-89d9-7cdde5366f8c.png" width="60%">
     </picture>
 </p>
-
 
 <h2 align="center">Profil GitHub</h2>          
 <p align="right">· Français
