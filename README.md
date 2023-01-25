@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source srcset="https://user-images.githubusercontent.com/113889290/210458550-43afbd29-22c1-4139-85b2-262a669273f9.png" width=60%  media="(prefers-color-scheme: dark)">
-        <img src="https://user-images.githubusercontent.com/113889290/210438807-e1ce49f2-87a7-4b98-9cbd-2a9ebe35750d.png" width="60%">
+        <source srcset="https://user-images.githubusercontent.com/113889290/210458550-43afbd29-22c1-4139-85b2-262a669273f9.png#gh-dark-mode-only" width=60%  media="(prefers-color-scheme: dark)">
+        <img src="https://user-images.githubusercontent.com/113889290/210438807-e1ce49f2-87a7-4b98-9cbd-2a9ebe35750d.png#gh-light-mode-only" width="60%">
     </picture>
 </p>
 
@@ -25,8 +25,8 @@
 <br>
 <p align="center">
     <picture>
-        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=TessierV&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=AAEEA1&stroke=E9EFEB&background=00000000&fire=AAEEA1&sideNums=CAA4FF&currStreakLabel=E9EFEB&dates=A8C4B1&sideLabels=E9EFEB&currStreakNum=8160B1" media="(prefers-color-scheme: dark)">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=TessierV&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=B586F8&stroke=A8C4B1&background=00000000&fire=CAA4FF&currStreakNum=50355D&sideNums=50355D&currStreakLabel=A7C4B0&dates=4A6553"  alt="TessierV" /> 
+        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=TessierV&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=AAEEA1&stroke=E9EFEB&background=00000000&fire=AAEEA1&sideNums=CAA4FF&currStreakLabel=E9EFEB&dates=A8C4B1&sideLabels=E9EFEB&currStreakNum=8160B1#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=TessierV&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=B586F8&stroke=A8C4B1&background=00000000&fire=CAA4FF&currStreakNum=50355D&sideNums=50355D&currStreakLabel=A7C4B0&dates=4A6553#gh-light-mode-only"  alt="TessierV" /> 
     </picture>
 </p>
  
