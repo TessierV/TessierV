@@ -3,9 +3,9 @@
         <source srcset="https://user-images.githubusercontent.com/113889290/214613674-0a16f380-c3f1-4448-a920-4110214cd473.png" width=60%  media="(prefers-color-scheme: dark)">
         <img src="https://user-images.githubusercontent.com/113889290/214613050-aa05b09a-8d69-442e-89d9-7cdde5366f8c.png" width="60%">
     </picture>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arvo&pause=1000&color=CDA4FF&center=true&vCenter=true&width=435&lines=Etudiante;Full+Stack+Developer;Front+lover;Canva+Maniac" alt="Typing SVG" /></a>
 </p>
-
-<h2 align="center">Profil GitHub</h2>          
+ 
 <p align="right">· Français
     <a href="https://github.com/TessierV">· English</a>
 </p>
