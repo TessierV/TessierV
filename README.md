@@ -122,10 +122,10 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=TessierV&repo=holbertonschool-sorting_algorithms&theme=default&bg_color=30,FFF,E9EFEB&border_color=A8C4B1&title_color=2B2B2B&text_color=2B2B2B&ring_color=8B3DA9&hide=issues&custom_title=TessierV&icon_color=714B83&text_bold=false" />
         </picture>
     </a>
-    <a href="https://github.com/TessierV/holbertonschool-sorting_algorithms">
+    <a href="https://github.com/MarianneHolbie/holbertonschool-AirBnB_clone_v2">
         <picture>
-                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=TessierV&repo=holbertonschool-sorting_algorithms&theme=dark&border_color=50365D&title_color=E9EFEB&text_color=E9EFEB&bg_color=8160B1&ring_color=94FF94&hide=issues&custom_title=TessierV&icon_color=AAEEA1&text_bold=false"  media="(prefers-color-scheme: dark)">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=TessierV&repo=holbertonschool-sorting_algorithms&theme=default&bg_color=30,FFF,E9EFEB&border_color=A8C4B1&title_color=2B2B2B&text_color=2B2B2B&ring_color=8B3DA9&hide=issues&custom_title=TessierV&icon_color=714B83&text_bold=false" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=MarianneHolbie&repo=holbertonschool-AirBnB_clone_v2&theme=dark&border_color=50365D&title_color=E9EFEB&text_color=E9EFEB&bg_color=8160B1&ring_color=94FF94&hide=issues&custom_title=TessierV&icon_color=AAEEA1&text_bold=false"  media="(prefers-color-scheme: dark)">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarianneHolbie&repo=holbertonschool-AirBnB_clone_v2&theme=default&bg_color=30,FFF,E9EFEB&border_color=A8C4B1&title_color=2B2B2B&text_color=2B2B2B&ring_color=8B3DA9&hide=issues&custom_title=TessierV&icon_color=714B83&text_bold=false" />
         </picture>
     </a>
 </p>
