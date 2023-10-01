@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
         <source srcset="https://github.com/TessierV/TessierV/assets/113889290/bc987354-d6de-4f1d-bc3d-86d1d155b578#gh-dark-mode-only" width=60%  media="(prefers-color-scheme: dark)">
-<img align="center" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/bc987354-d6de-4f1d-bc3d-86d1d155b578#gh-dark-mode-only" /><br>    
+        <img align="center" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/bc987354-d6de-4f1d-bc3d-86d1d155b578#gh-dark-mode-only" /><br>    
     </picture>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=91C0DA&width=435&lines=I'm+Vanessa;I'm+FullStack+developper;I'm+Front+Lover" alt="Typing SVG" /></a></p>
 
@@ -63,11 +63,9 @@
 </p>
 <h2 align="center"></h2>
 <div align="center">
-<a href="https://github.com/TessierV?tab=repositories">
-<img  width="160" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/6404e18a-fcde-4ffe-aa1d-1493af0272de" />
-<img width="160" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/b4a64d01-d3da-4e9c-a78d-f04f912f36c5" />
-<img  width="160" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/4b77b236-aa72-4c4c-8431-952338828133" />  
-</a>
+<a href="https://github.com/TessierV?tab=repositories"><picture><img  width="160" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/6404e18a-fcde-4ffe-aa1d-1493af0272de" /></picture></a>
+<a href="https://github.com/TessierV?tab=repositories"><picture><img width="160" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/b4a64d01-d3da-4e9c-a78d-f04f912f36c5" /></picture></a>
+<a href="https://github.com/TessierV?tab=repositories"><picture><img  width="160" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/4b77b236-aa72-4c4c-8431-952338828133" /></picture></a>  
 </div>
 <br/><br><br>
 <img align="left" width="2%" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/75f76703-549a-45ed-8091-9fdc76ed72eb" />
