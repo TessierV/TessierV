@@ -1,9 +1,9 @@
 <p align="center">
     <picture>
-        <source srcset="https://github.com/TessierV/TessierV/assets/113889290/bc987354-d6de-4f1d-bc3d-86d1d155b578#gh-dark-mode-only" width=60%  media="(prefers-color-scheme: dark)">
-        <img align="center" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/bc987354-d6de-4f1d-bc3d-86d1d155b578#gh-dark-mode-only" /><br>    
+        <source srcset="https://github.com/TessierV/TessierV/assets/113889290/3e0f9b25-2455-4fa6-b112-f6b8a299c933#gh-dark-mode-only" width=60%  media="(prefers-color-scheme: dark)">
+        <img align="center" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/3e0f9b25-2455-4fa6-b112-f6b8a299c933#gh-dark-mode-only" /><br>    
     </picture>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=91C0DA&width=435&lines=I'm+Vanessa;I'm+FullStack+developper;I'm+Front+Lover" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=91C0DA&width=435&lines=Je+suis+Vanessa;Je+suis+une+développeuse+FullStack;Je+suis+une+Front+Lover" alt="Typing SVG" /></a></p>
 
 <p align="right">· Français
     <a href="https://github.com/TessierV">· English</a>
