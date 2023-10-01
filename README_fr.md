@@ -3,7 +3,7 @@
         <source srcset="https://github.com/TessierV/TessierV/assets/113889290/3e0f9b25-2455-4fa6-b112-f6b8a299c933#gh-dark-mode-only" width=60%  media="(prefers-color-scheme: dark)">
         <img align="center" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/3e0f9b25-2455-4fa6-b112-f6b8a299c933#gh-dark-mode-only" /><br>    
     </picture>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=91C0DA&width=435&lines=Je+suis+Vanessa;Je+suis+une+développeuse+FullStack;Je+suis+une+Front+Lover" alt="Typing SVG" /></a></p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=91C0DA&width=435&lines=Je+suis+Vanessa;Je+suis+une+développeuse+FullStack;Je+suis+une+Front+Lover" alt="Typing SVG" /></p>
 
 <p align="right">· Français
     <a href="https://github.com/TessierV">· English</a>
@@ -25,7 +25,7 @@
 <br><br><br><br><br><br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=4E4C44&center=true&vCenter=true&repeat=false&width=435&height=27&lines=Mes+Stats+GitHub" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=4E4C44&center=true&vCenter=true&repeat=false&width=435&height=27&lines=Mes+Stats+GitHub" alt="Typing SVG" />
 </p>
 <h2 align="center"></h2>
 <br>
@@ -56,7 +56,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=4E4C44&center=true&vCenter=true&repeat=false&width=435&height=27&lines=Répertoires" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=4E4C44&center=true&vCenter=true&repeat=false&width=435&height=27&lines=Répertoires" alt="Typing SVG" />
 </p>
 <h2 align="center"></h2>
 <div align="center">
@@ -66,7 +66,7 @@
 </div>
 <br/><br><br>
 <img align="left" width="2%" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/75f76703-549a-45ed-8091-9fdc76ed72eb" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=HolbertonSchool&size=19&pause=1000&color=4E4C44&repeat=false&width=435&height=30&lines=HolbertonSchool" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=HolbertonSchool&size=19&pause=1000&color=4E4C44&repeat=false&width=435&height=30&lines=HolbertonSchool" alt="Typing SVG" />
 <br/><br>
 
 <details align='left'>
@@ -136,7 +136,7 @@
 </details>
 <br/><br><br>
 <img align="left" width="2%" alt="Github" src="https://github.com/TessierV/TessierV/assets/113889290/75f76703-549a-45ed-8091-9fdc76ed72eb" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=HolbertonSchool&size=19&pause=1000&color=4E4C44&repeat=false&width=435&height=30&lines=Autres" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=HolbertonSchool&size=19&pause=1000&color=4E4C44&repeat=false&width=435&height=30&lines=Autres" alt="Typing SVG" />
 <br/><br>
 
 
@@ -157,7 +157,7 @@
 <br><br><br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=4E4C44&center=true&vCenter=true&repeat=false&width=435&height=27&lines=Langage+et+Outils" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=4E4C44&center=true&vCenter=true&repeat=false&width=435&height=27&lines=Langage+et+Outils" alt="Typing SVG" />
 <h2></h2>
 </p>
 <br/><br><br>
