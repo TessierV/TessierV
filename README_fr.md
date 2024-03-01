@@ -153,6 +153,12 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=TessierV&repo=HelloBook&theme=default&bg_color=F3F3F3&border_color=EBEBEB&title_color=61A3BA&text_color=4E4C44&ring_color=61A3BA&hide=issues&custom_title=TessierV&icon_color=61A3BA&text_bold=false" />
         </picture>
     </a>
+     <a href="https://github.com/TessierV/Web_exercice">
+            <picture>
+            <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=TessierV&repo=Web_exercice&theme=default&bg_color=4E4C44&border_color=EBEBEB&title_color=61A3BA&text_color=F3F3F3&ring_color=61A3BA&hide=issues&custom_title=TessierV&icon_color=61A3BA&text_bold=false"  media="(prefers-color-scheme: dark)">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=TessierV&repo=Web_exercice&theme=default&bg_color=F3F3F3&border_color=EBEBEB&title_color=61A3BA&text_color=4E4C44&ring_color=61A3BA&hide=issues&custom_title=TessierV&icon_color=61A3BA&text_bold=false" />
+        </picture>
+    </a>
 </p>
 <br><br><br>
 
